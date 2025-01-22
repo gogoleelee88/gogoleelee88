@@ -2,10 +2,10 @@
 # 👋 Hi, I'm @gogoleelee88
 
 ### 👀 I'm interested in ...
-Web Development
+Web Development , planning
 
 ### 🌱 I'm currently learning ...
-React, Spring, Python
+React, Spring, Python , C , Java 
 
 ### 💞️ I'm looking to collaborate on ...
 Interesting web projects
