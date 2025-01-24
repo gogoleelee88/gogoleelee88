@@ -11,6 +11,8 @@ React, Spring, Python , C , Java
 Interesting web projects
 
 
+https://gogoleelee88.github.io/resume88/
+
 <!--
 **gogoleelee88/gogoleelee88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
